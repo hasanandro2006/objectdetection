@@ -12,6 +12,7 @@
         <item>EfficientDet Lite2</item>
     </string-array>
     <color name="all">#1399FF</color>
+    <color name="black">@android:color/black</color>
     <color name="bottom_sheet_background">#EEEEEE</color>
     <color name="bottom_sheet_text_color">@android:color/black</color>
     <color name="bounding_box_color">#FF6F00</color>
@@ -20,6 +21,7 @@
     <color name="icPressed">#AAFFFFFF</color>
     <color name="ic_launcher_background">#FFFFFF</color>
     <color name="ic_launcher_backgroundd">#1399FF</color>
+    <color name="oneOne">#0CB0FF</color>
     <color name="toolbar_background">#EEEEEE</color>
     <dimen name="bottom_sheet_control_btn_size">45dp</dimen>
     <dimen name="bottom_sheet_control_text_side_margin">10dp</dimen>
@@ -44,7 +46,9 @@
     <string name="alt_bottom_sheet_threshold_button_plus">Increasing threshold of detected object
         results button</string>
     <string name="app_name">TFLite Object Detection</string>
+    <string name="detection">Detection</string>
     <string name="find_unknown_object">Find Unknown Object</string>
+    <string name="image_objects_detection">Image objects detection</string>
     <string name="label_confidence_threshold">Threshold</string>
     <string name="label_delegate">Delegate</string>
     <string name="label_fps">Frames per Second</string>
@@ -52,6 +56,10 @@
     <string name="label_max_results">Max Results</string>
     <string name="label_models">ML Model</string>
     <string name="label_threads">Number of Threads</string>
+    <string name="live_object_detection">Live object detection</string>
+    <string name="object_detection">Object Detection</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:statusBarColor">@color/all</item>
     </style>

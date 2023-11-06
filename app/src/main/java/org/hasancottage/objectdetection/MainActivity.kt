@@ -13,7 +13,9 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.button.setOnClickListener {
+
+
+        binding.camer.setOnClickListener {
             startActivity(Intent(Intent(this,ObjectActivity::class.java)))
         }
 

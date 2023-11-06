@@ -37,6 +37,12 @@
     <string name="label_delegate">Delegate</string>
     <string name="label_models">ML Model</string>
     <string name="find_unknown_object">Find Unknown Object</string>
+    <string name="object_detection">Object Detection</string>
+    <string name="live_object_detection">Live object detection</string>
+    <string name="detection">Detection</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="image_objects_detection">Image objects detection</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
 
     <string-array name="delegate_spinner_titles">
         <item>CPU</item>

@@ -4,9 +4,12 @@ package org.hasancottage.objectdetection.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.ImageView;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -20,11 +23,77 @@ public final class ActivityMainBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button button;
+  public final ConstraintLayout camer;
 
-  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button button) {
+  @NonNull
+  public final ConstraintLayout gallary;
+
+  @NonNull
+  public final ImageButton imageButton2;
+
+  @NonNull
+  public final ImageButton imageButton3;
+
+  @NonNull
+  public final ImageView imageView2;
+
+  @NonNull
+  public final ImageView imageView3;
+
+  @NonNull
+  public final ImageView imageView4;
+
+  @NonNull
+  public final ConstraintLayout one;
+
+  @NonNull
+  public final TextView textView3;
+
+  @NonNull
+  public final TextView textView4;
+
+  @NonNull
+  public final TextView textView5;
+
+  @NonNull
+  public final TextView textView6;
+
+  @NonNull
+  public final TextView textView7;
+
+  @NonNull
+  public final CardView three;
+
+  @NonNull
+  public final CardView tow;
+
+  @NonNull
+  public final View view;
+
+  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull ConstraintLayout camer,
+      @NonNull ConstraintLayout gallary, @NonNull ImageButton imageButton2,
+      @NonNull ImageButton imageButton3, @NonNull ImageView imageView2,
+      @NonNull ImageView imageView3, @NonNull ImageView imageView4, @NonNull ConstraintLayout one,
+      @NonNull TextView textView3, @NonNull TextView textView4, @NonNull TextView textView5,
+      @NonNull TextView textView6, @NonNull TextView textView7, @NonNull CardView three,
+      @NonNull CardView tow, @NonNull View view) {
     this.rootView = rootView;
-    this.button = button;
+    this.camer = camer;
+    this.gallary = gallary;
+    this.imageButton2 = imageButton2;
+    this.imageButton3 = imageButton3;
+    this.imageView2 = imageView2;
+    this.imageView3 = imageView3;
+    this.imageView4 = imageView4;
+    this.one = one;
+    this.textView3 = textView3;
+    this.textView4 = textView4;
+    this.textView5 = textView5;
+    this.textView6 = textView6;
+    this.textView7 = textView7;
+    this.three = three;
+    this.tow = tow;
+    this.view = view;
   }
 
   @Override
@@ -54,13 +123,105 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.button;
-      Button button = ViewBindings.findChildViewById(rootView, id);
-      if (button == null) {
+      id = R.id.camer;
+      ConstraintLayout camer = ViewBindings.findChildViewById(rootView, id);
+      if (camer == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, button);
+      id = R.id.gallary;
+      ConstraintLayout gallary = ViewBindings.findChildViewById(rootView, id);
+      if (gallary == null) {
+        break missingId;
+      }
+
+      id = R.id.imageButton2;
+      ImageButton imageButton2 = ViewBindings.findChildViewById(rootView, id);
+      if (imageButton2 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageButton3;
+      ImageButton imageButton3 = ViewBindings.findChildViewById(rootView, id);
+      if (imageButton3 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView2;
+      ImageView imageView2 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView3;
+      ImageView imageView3 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView3 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView4;
+      ImageView imageView4 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView4 == null) {
+        break missingId;
+      }
+
+      id = R.id.one;
+      ConstraintLayout one = ViewBindings.findChildViewById(rootView, id);
+      if (one == null) {
+        break missingId;
+      }
+
+      id = R.id.textView3;
+      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
+      if (textView3 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView4;
+      TextView textView4 = ViewBindings.findChildViewById(rootView, id);
+      if (textView4 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView5;
+      TextView textView5 = ViewBindings.findChildViewById(rootView, id);
+      if (textView5 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView6;
+      TextView textView6 = ViewBindings.findChildViewById(rootView, id);
+      if (textView6 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView7;
+      TextView textView7 = ViewBindings.findChildViewById(rootView, id);
+      if (textView7 == null) {
+        break missingId;
+      }
+
+      id = R.id.three;
+      CardView three = ViewBindings.findChildViewById(rootView, id);
+      if (three == null) {
+        break missingId;
+      }
+
+      id = R.id.tow;
+      CardView tow = ViewBindings.findChildViewById(rootView, id);
+      if (tow == null) {
+        break missingId;
+      }
+
+      id = R.id.view;
+      View view = ViewBindings.findChildViewById(rootView, id);
+      if (view == null) {
+        break missingId;
+      }
+
+      return new ActivityMainBinding((ConstraintLayout) rootView, camer, gallary, imageButton2,
+          imageButton3, imageView2, imageView3, imageView4, one, textView3, textView4, textView5,
+          textView6, textView7, three, tow, view);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
