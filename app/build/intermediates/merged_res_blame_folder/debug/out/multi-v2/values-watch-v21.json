@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-55:/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\8dc5a8b506a29f277573ecbca94f5314\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",

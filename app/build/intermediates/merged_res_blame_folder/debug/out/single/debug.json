@@ -1,182 +1,198 @@
 [
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_about.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\about.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\font_sf_pro_display_light.otf.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\font\\sf_pro_display_light.otf"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\layout_activity_object.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\layout\\activity_object.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\camera.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-pngs-53:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\font_sf_pro_display_bold.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\font\\sf_pro_display_bold.otf"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_one.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\one.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_activity_for_galarry.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\activity_for_galarry.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_ttttttt.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\ttttttt.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\font_sf_pro_display_regular.otf.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\font\\sf_pro_display_regular.otf"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\font_sf_pro_display_semibold.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\font\\sf_pro_display_semibold.otf"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_k.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\k.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_star.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\star.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_gallary.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\gallary.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_ic_plus.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\ic_plus.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_ic_minus.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\ic_minus.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_about.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\about.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "org.hasancottage.objectdetection.app-merged_res-59:/layout_activity_for_galarry.xml.flat",
+        "source": "org.hasancottage.objectdetection.app-main-61:/layout/activity_for_galarry.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-pngs-55:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_beg.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\beg.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_gallary.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\gallary.png"
     },
     {
-        "merged": "org.hasancottage.objectdetection.app-merged_res-57:/layout_activity_main.xml.flat",
-        "source": "org.hasancottage.objectdetection.app-main-59:/layout/activity_main.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\ic_plus.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\font_sf_pro_display_semibold.otf.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\font\\sf_pro_display_semibold.otf"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\fragment_camera.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_t.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\t.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_t.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\t.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_splash.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\splash.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\layout_fragment_camera.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\layout\\fragment_camera.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_deback.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\deback.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_camera.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\camera.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_back_one.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\back_one.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\color_selector_ic.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\color\\selector_ic.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\layout_info_bottom_sheet.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\layout\\info_bottom_sheet.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\splash.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_icn_chevron_up.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\icn_chevron_up.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\color\\selector_ic.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_one.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\one.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\ic_minus.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_star.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\star.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_activity_object.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\activity_object.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\info_bottom_sheet.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\font_sf_pro_display_medium.otf.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\font\\sf_pro_display_medium.otf"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_tt.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\tt.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\font_sf_pro_display_regular.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\font\\sf_pro_display_regular.otf"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\drawable_ttttttt.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\drawable\\ttttttt.png"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\layout_fragment_galary.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\layout\\fragment_galary.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\icn_chevron_up.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_k.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\k.png"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\font_sf_pro_display_bold.otf.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\font\\sf_pro_display_bold.otf"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-57:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-59:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\font_sf_pro_display_medium.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\font\\sf_pro_display_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_tt.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\font_sf_pro_display_light.otf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\font\\sf_pro_display_light.otf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\drawable_beg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\drawable\\beg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-merged_res-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.4\\org.hasancottage.objectdetection.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
     }
 ]

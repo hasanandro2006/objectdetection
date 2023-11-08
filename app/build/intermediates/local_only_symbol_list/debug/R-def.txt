@@ -15,6 +15,7 @@ color ic_launcher_backgroundd
 color oneOne
 color selector_ic
 color toolbar_background
+color yello
 dimen bottom_sheet_control_btn_size
 dimen bottom_sheet_control_text_side_margin
 dimen bottom_sheet_default_row_margin
@@ -26,8 +27,10 @@ dimen bottom_sheet_text_size
 dimen round_button_medium
 dimen stroke_small
 drawable about
+drawable back_one
 drawable beg
 drawable camera
+drawable deback
 drawable gallary
 drawable ic_launcher_foreground
 drawable ic_minus
@@ -59,11 +62,13 @@ id imageView
 id imageView2
 id imageView3
 id imageView4
+id imageView5
 id inference_time_label
 id inference_time_val
 id max_results_minus
 id max_results_plus
 id max_results_value
+id name_item
 id nav_graph
 id one
 id overlay
@@ -88,6 +93,7 @@ id tow
 id view
 id view_finder
 integer bottom_sheet_control_text_min_ems
+layout activity_for_galarry
 layout activity_main
 layout activity_object
 layout activity_splash
@@ -107,6 +113,7 @@ string alt_bottom_sheet_threshold_button_plus
 string app_name
 string detection
 string find_unknown_object
+string hello_blank_fragment
 string image_objects_detection
 string label_confidence_threshold
 string label_delegate

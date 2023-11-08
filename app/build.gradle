@@ -121,4 +121,10 @@ dependencies {
     // Import the GPU delegate plugin Library for GPU inference
     implementation 'org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0'
     implementation 'org.tensorflow:tensorflow-lite-gpu:2.9.0'
+
+
+    // Image labling
+    implementation ("com.google.mlkit:image-labeling:17.0.7")
+    implementation ("com.google.mlkit:image-labeling-custom:17.0.1")
+    implementation ("com.google.mlkit:object-detection:17.0.0")
 }

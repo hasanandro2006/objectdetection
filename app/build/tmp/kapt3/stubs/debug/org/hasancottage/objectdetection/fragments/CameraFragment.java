@@ -16,10 +16,6 @@ public final class CameraFragment extends androidx.fragment.app.Fragment impleme
     private androidx.camera.core.Camera camera;
     @org.jetbrains.annotations.Nullable
     private androidx.camera.lifecycle.ProcessCameraProvider cameraProvider;
-    
-    /**
-     * Blocking camera operations are performed using this executor
-     */
     private java.util.concurrent.ExecutorService cameraExecutor;
     
     public CameraFragment() {

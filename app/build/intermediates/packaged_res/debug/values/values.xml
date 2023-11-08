@@ -15,7 +15,7 @@
     <color name="black">@android:color/black</color>
     <color name="bottom_sheet_background">#EEEEEE</color>
     <color name="bottom_sheet_text_color">@android:color/black</color>
-    <color name="bounding_box_color">#FF6F00</color>
+    <color name="bounding_box_color">#00F700</color>
     <color name="icActive">#FFFFFFFF</color>
     <color name="icFocused">#DDFFFFFF</color>
     <color name="icPressed">#AAFFFFFF</color>
@@ -23,6 +23,7 @@
     <color name="ic_launcher_backgroundd">#1399FF</color>
     <color name="oneOne">#0CB0FF</color>
     <color name="toolbar_background">#EEEEEE</color>
+    <color name="yello">#00F700</color>
     <dimen name="bottom_sheet_control_btn_size">45dp</dimen>
     <dimen name="bottom_sheet_control_text_side_margin">10dp</dimen>
     <dimen name="bottom_sheet_default_row_margin">10dp</dimen>
@@ -48,6 +49,7 @@
     <string name="app_name">TFLite Object Detection</string>
     <string name="detection">Detection</string>
     <string name="find_unknown_object">Find Unknown Object</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="image_objects_detection">Image objects detection</string>
     <string name="label_confidence_threshold">Threshold</string>
     <string name="label_delegate">Delegate</string>

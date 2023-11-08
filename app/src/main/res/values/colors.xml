@@ -3,7 +3,7 @@
 
 <resources>
 
-    <color name="bounding_box_color">#FF6F00</color>
+    <color name="bounding_box_color">#00F700</color>
     <color name="toolbar_background">#EEEEEE</color>
     <color name="ic_launcher_background">#FFFFFF</color>
     <color name="bottom_sheet_background">#EEEEEE</color>
@@ -14,4 +14,5 @@
     <color name="icPressed">#AAFFFFFF</color>
     <color name="all">#1399FF</color>
     <color name="oneOne">#0CB0FF</color>
+    <color name="yello">#00F700</color>
 </resources>

@@ -26,9 +26,6 @@ public final class PermissionsFragment extends androidx.fragment.app.Fragment {
             super();
         }
         
-        /**
-         * Convenience method used to check if all permissions required by this app are granted
-         */
         public final boolean hasPermissions(@org.jetbrains.annotations.NotNull
         android.content.Context context) {
             return false;

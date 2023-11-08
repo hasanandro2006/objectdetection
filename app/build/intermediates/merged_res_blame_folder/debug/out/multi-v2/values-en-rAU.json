@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-55:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\de5f441388a9683af41f10822f5c6489\\transformed\\navigation-ui-2.7.5\\res\\values-en-rAU\\values-en-rAU.xml",
