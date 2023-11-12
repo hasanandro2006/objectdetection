@@ -35,6 +35,7 @@
     <dimen name="round_button_medium">64dp</dimen>
     <dimen name="stroke_small">4dp</dimen>
     <integer name="bottom_sheet_control_text_min_ems">3</integer>
+    <string name="about">About : -</string>
     <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
     <string name="alt_bottom_sheet_max_results_button_minus">Decreasing maxium detected results
         button</string>
@@ -46,8 +47,10 @@
         results button</string>
     <string name="alt_bottom_sheet_threshold_button_plus">Increasing threshold of detected object
         results button</string>
-    <string name="app_name">TFLite Object Detection</string>
+    <string name="app_name">Object Detection</string>
+    <string name="declaration_privacy_policy">Declaration Privacy Policy</string>
     <string name="detection">Detection</string>
+    <string name="detectionA">Object Detection</string>
     <string name="find_unknown_object">Find Unknown Object</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="image_objects_detection">Image objects detection</string>
@@ -62,6 +65,8 @@
     <string name="object_detection">Object Detection</string>
     <string name="open_camera">Open Camera</string>
     <string name="pick_from_gallery">Pick from Gallery</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="version_1_0_0">Version: 1.0.0</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:statusBarColor">@color/all</item>
     </style>

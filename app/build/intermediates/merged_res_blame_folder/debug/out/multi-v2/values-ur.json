@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-ur/values-ur.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-58:/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\48773bcee0dbc78228b32bb742d8eae3\\transformed\\material-1.10.0\\res\\values-ur\\values-ur.xml",
@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\a056be6f68b3b1a306c9a7a9d8f0c5d5\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-ur\\values.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\9dbe9a797ca5b6a2f4ba083ae20eb07b\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-ur\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

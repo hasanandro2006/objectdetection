@@ -8,13 +8,25 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
+                  <entry key="aboutThisApp">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="98" />
+                            <option name="y" value="-215" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
                   <entry key="camera_fragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="342" />
-                            <option name="y" value="-230" />
+                            <option name="x" value="-174" />
+                            <option name="y" value="-282" />
                           </Point>
                         </option>
                         <option name="myPositions">
@@ -29,43 +41,17 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="galary">
-                    <value>
-                      <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="402" />
-                            <option name="y" value="131" />
-                          </Point>
-                        </option>
-                        <option name="myPositions">
-                          <map>
-                            <entry key="action_galary_to_permissions_fragment">
-                              <value>
-                                <LayoutPositions />
-                              </value>
-                            </entry>
-                          </map>
-                        </option>
-                      </LayoutPositions>
-                    </value>
-                  </entry>
                   <entry key="permissions_fragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-55" />
-                            <option name="y" value="-24" />
+                            <option name="x" value="-662" />
+                            <option name="y" value="-265" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_permissions_fragment_to_galary">
-                              <value>
-                                <LayoutPositions />
-                              </value>
-                            </entry>
                             <entry key="action_permissions_to_camera">
                               <value>
                                 <LayoutPositions />

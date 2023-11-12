@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-uz/values-uz.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-58:/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\48773bcee0dbc78228b32bb742d8eae3\\transformed\\material-1.10.0\\res\\values-uz\\values-uz.xml",
@@ -74,6 +74,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\9dbe9a797ca5b6a2f4ba083ae20eb07b\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "145",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5464",
+                        "endColumns": "149",
+                        "endOffsets": "5609"
+                    }
+                },
+                {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\de5f441388a9683af41f10822f5c6489\\transformed\\navigation-ui-2.7.5\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3",
@@ -88,23 +105,6 @@
                         "startOffsets": "11436,11537",
                         "endColumns": "100,121",
                         "endOffsets": "11532,11654"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\a056be6f68b3b1a306c9a7a9d8f0c5d5\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-uz\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "145",
-                        "endOffsets": "340"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5464",
-                        "endColumns": "149",
-                        "endOffsets": "5609"
                     }
                 }
             ]

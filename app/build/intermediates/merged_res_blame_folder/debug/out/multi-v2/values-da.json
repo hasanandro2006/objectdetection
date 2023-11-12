@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-da/values-da.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-58:/values-da/values-da.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\a056be6f68b3b1a306c9a7a9d8f0c5d5\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-da\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "122",
-                        "endOffsets": "317"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5432",
-                        "endColumns": "126",
-                        "endOffsets": "5554"
-                    }
-                },
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\de5f441388a9683af41f10822f5c6489\\transformed\\navigation-ui-2.7.5\\res\\values-da\\values-da.xml",
                     "from": {
@@ -105,6 +88,23 @@
                         "startOffsets": "3383,3479,3581,3678,3776,3883,3992,11591",
                         "endColumns": "95,101,96,97,106,108,117,100",
                         "endOffsets": "3474,3576,3673,3771,3878,3987,4105,11687"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\9dbe9a797ca5b6a2f4ba083ae20eb07b\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "122",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5432",
+                        "endColumns": "126",
+                        "endOffsets": "5554"
                     }
                 }
             ]

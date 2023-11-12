@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-de/values-de.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-58:/values-de/values-de.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\de5f441388a9683af41f10822f5c6489\\transformed\\navigation-ui-2.7.5\\res\\values-de\\values-de.xml",
@@ -74,23 +74,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\a056be6f68b3b1a306c9a7a9d8f0c5d5\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-de\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "140",
-                        "endOffsets": "335"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5593",
-                        "endColumns": "144",
-                        "endOffsets": "5733"
-                    }
-                },
-                {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\e471d934d2ec39d5b642bc49644e7b6d\\transformed\\core-1.12.0\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -105,6 +88,23 @@
                         "startOffsets": "3496,3594,3696,3796,3896,4004,4109,12015",
                         "endColumns": "97,101,99,99,107,104,117,100",
                         "endOffsets": "3589,3691,3791,3891,3999,4104,4222,12111"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\9dbe9a797ca5b6a2f4ba083ae20eb07b\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "140",
+                        "endOffsets": "335"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5593",
+                        "endColumns": "144",
+                        "endOffsets": "5733"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-57:/values-pt/values-pt.xml",
+            "outputFile": "org.hasancottage.objectdetection.app-mergeDebugResources-58:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\e471d934d2ec39d5b642bc49644e7b6d\\transformed\\core-1.12.0\\res\\values-pt\\values-pt.xml",

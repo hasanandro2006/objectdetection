@@ -2956,6 +2956,7 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+drawable a
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -3039,6 +3040,8 @@ drawable about
 drawable avd_hide_password
 drawable avd_show_password
 drawable back_one
+drawable baseline_privacy_tip_24
+drawable bc
 drawable beg
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -3201,6 +3204,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id aboutApp
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3429,13 +3433,14 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageButton2
-id imageButton3
+id imageButton
+id imageButton1
 id imageView
 id imageView2
 id imageView3
 id imageView4
 id imageView5
+id imageView7
 id immediateStop
 id included
 id indeterminate
@@ -3590,8 +3595,12 @@ id pressed
 id progress_circular
 id progress_horizontal
 id radio
+id rateUs
 id ratio
 id rectangles
+id relativeLayout
+id relativeLayout2
+id relativeLayout4
 id report_drawn
 id reverseSawtooth
 id right
@@ -3667,6 +3676,7 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id t
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3689,11 +3699,15 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView10
+id textView11
 id textView3
 id textView4
 id textView5
 id textView6
 id textView7
+id textView8
+id textView9
 id textWatcher
 id text_input_end_icon
 id text_input_error_icon
@@ -3745,6 +3759,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id webView
 id west
 id wide
 id withText
@@ -3872,10 +3887,12 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_about_this_app
 layout activity_for_galarry
 layout activity_main
 layout activity_object
 layout activity_splash
+layout activity_webview
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3989,6 +4006,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string about
 string alt_bottom_sheet_chevron
 string alt_bottom_sheet_max_results_button_minus
 string alt_bottom_sheet_max_results_button_plus
@@ -4034,8 +4052,10 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string declaration_privacy_policy
 string dest_title
 string detection
+string detectionA
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -4165,6 +4185,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string pick_from_gallery
+string privacy_policy
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
@@ -4172,6 +4193,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string version_1_0_0
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -4799,6 +4821,7 @@ style Theme_MaterialComponents_Light_NoActionBar
 style Theme_MaterialComponents_Light_NoActionBar_Bridge
 style Theme_MaterialComponents_NoActionBar
 style Theme_MaterialComponents_NoActionBar_Bridge
+style Theme_PlayCore_Transparent
 style ThemeOverlay_AppCompat
 style ThemeOverlay_AppCompat_ActionBar
 style ThemeOverlay_AppCompat_Dark

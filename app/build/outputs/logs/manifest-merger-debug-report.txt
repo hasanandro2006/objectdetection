@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12
 MERGED from [androidx.databinding:databinding-adapters:8.1.2] C:\Users\USER\.gradle\caches\transforms-3\4ba785d4cebea2d67ced1b162deb13ac\transformed\databinding-adapters-8.1.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.1.2] C:\Users\USER\.gradle\caches\transforms-3\1f688200f708a862968cedf4ef130b8a\transformed\jetified-databinding-ktx-8.1.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.1.2] C:\Users\USER\.gradle\caches\transforms-3\1c342821b37253e39fc37fdfd106939b\transformed\databinding-runtime-8.1.2\AndroidManifest.xml:2:1-7:12
@@ -27,6 +27,7 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\USER\.gradle
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\USER\.gradle\caches\transforms-3\8dc5a8b506a29f277573ecbca94f5314\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\221648acdcbe3961a254da28d0869ba8\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.window:window:1.2.0-rc01] C:\Users\USER\.gradle\caches\transforms-3\a5f8bd274f001c80e25eed81c7ee3b8b\transformed\jetified-window-1.2.0-rc01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\61bbda208cae905ee6fa8d33a0887889\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\748c7ceb2d2ecdf42c1ae0e11e6870de\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\d333c5d2f2f300e4f332b106c37bf739\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\26ffadb0491258e4475a1f1613f077a4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -41,10 +42,11 @@ MERGED from [com.google.mlkit:object-detection-common:18.0.0] C:\Users\USER\.gra
 MERGED from [com.google.mlkit:vision-common:17.0.0] C:\Users\USER\.gradle\caches\transforms-3\8ffe767cbb20d5b977be13b71c5c5e28\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.mlkit:common:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\6da7270ae3fed62a8c43f089a25c8f79\transformed\jetified-common-18.0.0\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\4627712d6a4c831669871bc72ea4ce6c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\USER\.gradle\caches\transforms-3\9060a12d43b13bcf1016c5e24ade2a89\transformed\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\b96a2652114f9244b69774bca5134a98\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\3d6c1e5ff696b9139a08c21e0af9848c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\e3a316e1d37a37e2fcdb05da128dfd24\transformed\jetified-review-2.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\USER\.gradle\caches\transforms-3\9060a12d43b13bcf1016c5e24ade2a89\transformed\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\USER\.gradle\caches\transforms-3\ad7182045911e68e60bb0c7f63954998\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\USER\.gradle\caches\transforms-3\3f948cf1390e7ab146849a46401a9711\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\USER\.gradle\caches\transforms-3\8ebabfd541925c35f71f3f52b377fe67\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\USER\.gradle\caches\transforms-3\06335b2bd96f01e8d921d05c3a4c5ae6\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
@@ -98,6 +100,7 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms
 MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\USER\.gradle\caches\transforms-3\3b1ea52c31a5c483cca518900cf1a469\transformed\jetified-annotation-experimental-1.3.1\AndroidManifest.xml:17:1-22:12
 MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\d7e20f7a102fba41cce5eaf81c45c349\transformed\jetified-tensorflow-lite-task-base-0.4.0\AndroidManifest.xml:2:1-6:12
 MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\c5e83e8fb69b7a41c3eafb8ef93feee8\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:2:1-21:12
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\15be73b9804710ed0af675024111aa8f\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\3b79ff2527a6d2392d9e36fba43856cc\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
 	package
@@ -126,8 +129,8 @@ ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\obje
 	android:name
 		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:11:5-53:19
-INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:11:5-53:19
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:11:5-60:19
+INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:11:5-60:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\USER\.gradle\caches\transforms-3\48773bcee0dbc78228b32bb742d8eae3\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\USER\.gradle\caches\transforms-3\48773bcee0dbc78228b32bb742d8eae3\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\USER\.gradle\caches\transforms-3\b3cb2a27e2d661bdab284d134438ff36\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -138,6 +141,8 @@ MERGED from [androidx.camera:camera-core:1.3.0] C:\Users\USER\.gradle\caches\tra
 MERGED from [androidx.camera:camera-core:1.3.0] C:\Users\USER\.gradle\caches\transforms-3\663ea03c461379ba6ded52d3dc88d3a5\transformed\jetified-camera-core-1.3.0\AndroidManifest.xml:23:5-34:19
 MERGED from [androidx.window:window:1.2.0-rc01] C:\Users\USER\.gradle\caches\transforms-3\a5f8bd274f001c80e25eed81c7ee3b8b\transformed\jetified-window-1.2.0-rc01\AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0-rc01] C:\Users\USER\.gradle\caches\transforms-3\a5f8bd274f001c80e25eed81c7ee3b8b\transformed\jetified-window-1.2.0-rc01\AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\61bbda208cae905ee6fa8d33a0887889\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\61bbda208cae905ee6fa8d33a0887889\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:11:5-12:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\d333c5d2f2f300e4f332b106c37bf739\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\d333c5d2f2f300e4f332b106c37bf739\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [com.google.mlkit:image-labeling:17.0.7] C:\Users\USER\.gradle\caches\transforms-3\1dfe14916dbb7c19151d7ecd26328c4b\transformed\jetified-image-labeling-17.0.7\AndroidManifest.xml:7:5-15:19
@@ -154,12 +159,14 @@ MERGED from [com.google.mlkit:common:18.0.0] C:\Users\USER\.gradle\caches\transf
 MERGED from [com.google.mlkit:common:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\6da7270ae3fed62a8c43f089a25c8f79\transformed\jetified-common-18.0.0\AndroidManifest.xml:8:5-24:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\4627712d6a4c831669871bc72ea4ce6c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\4627712d6a4c831669871bc72ea4ce6c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\b96a2652114f9244b69774bca5134a98\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\b96a2652114f9244b69774bca5134a98\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\3d6c1e5ff696b9139a08c21e0af9848c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\3d6c1e5ff696b9139a08c21e0af9848c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\e3a316e1d37a37e2fcdb05da128dfd24\transformed\jetified-review-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\e3a316e1d37a37e2fcdb05da128dfd24\transformed\jetified-review-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\USER\.gradle\caches\transforms-3\ad7182045911e68e60bb0c7f63954998\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\USER\.gradle\caches\transforms-3\ad7182045911e68e60bb0c7f63954998\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.core:core:1.12.0] C:\Users\USER\.gradle\caches\transforms-3\e471d934d2ec39d5b642bc49644e7b6d\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.12.0] C:\Users\USER\.gradle\caches\transforms-3\e471d934d2ec39d5b642bc49644e7b6d\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\USER\.gradle\caches\transforms-3\fa5f8e3925c8e5c55fa8537ffbc9bd32\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
@@ -180,6 +187,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\USER\.gradle\cache
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\USER\.gradle\caches\transforms-3\d03996b25f75ee7766b1c8e36b6ac402\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\d7e20f7a102fba41cce5eaf81c45c349\transformed\jetified-tensorflow-lite-task-base-0.4.0\AndroidManifest.xml:4:4-5:18
 MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\d7e20f7a102fba41cce5eaf81c45c349\transformed\jetified-tensorflow-lite-task-base-0.4.0\AndroidManifest.xml:4:4-5:18
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:11:5-19:19
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\15be73b9804710ed0af675024111aa8f\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:10:5-20
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\15be73b9804710ed0af675024111aa8f\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:10:5-20
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\3b79ff2527a6d2392d9e36fba43856cc\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
@@ -200,66 +209,82 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\ca
 		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:12:9-35
 	android:taskAffinity
 		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:16:9-32
-activity#org.hasancottage.objectdetection.activity.ActivityForGalarry
+activity#org.hasancottage.objectdetection.activity.Webview
 ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:18:9-21:46
 	android:exported
 		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:20:13-37
 	android:theme
 		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:21:13-44
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:19:13-56
-activity#org.hasancottage.objectdetection.SplashActivity
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:22:9-31:20
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:19:13-45
+activity#org.hasancottage.objectdetection.activity.AboutThisApp
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:22:9-25:47
 	android:exported
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:24:13-36
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:24:13-37
 	android:theme
 		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:25:13-44
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:23:13-50
+activity#org.hasancottage.objectdetection.activity.ActivityForGalarry
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:26:9-29:47
+	android:exported
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:27:13-56
+activity#org.hasancottage.objectdetection.SplashActivity
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:exported
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:31:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:37:27-74
 activity#org.hasancottage.objectdetection.MainActivity
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:32:9-36:20
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:40:9-43:47
 	android:exported
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:34:13-37
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:42:13-37
 	android:theme
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:35:13-44
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:43:13-44
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:33:13-41
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:41:13-41
 activity#org.hasancottage.objectdetection.activity.ObjectActivity
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:37:9-52:20
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:44:9-59:20
 	android:clearTaskOnLaunch
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:39:13-45
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:46:13-45
 	android:exported
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:41:13-37
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:48:13-37
 	android:resizeableActivity
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:43:13-46
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:50:13-46
 	android:rotationAnimation
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:51:13-49
 	android:configChanges
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:40:13-91
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:47:13-91
 	tools:targetApi
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:46:13-32
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:53:13-32
 	android:icon
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:42:13-47
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:49:13-47
 	android:theme
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:45:13-44
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:52:13-44
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:38:13-52
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:45:13-52
 meta-data#android.notch_support
-ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:49:13-51:40
+ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:56:13-58:40
 	android:value
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:51:17-37
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:58:17-37
 	android:name
-		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:50:17-53
+		ADDED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:57:17-53
 uses-sdk
 INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml
@@ -310,6 +335,8 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\USER\.
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\221648acdcbe3961a254da28d0869ba8\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.2.0-rc01] C:\Users\USER\.gradle\caches\transforms-3\a5f8bd274f001c80e25eed81c7ee3b8b\transformed\jetified-window-1.2.0-rc01\AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window:1.2.0-rc01] C:\Users\USER\.gradle\caches\transforms-3\a5f8bd274f001c80e25eed81c7ee3b8b\transformed\jetified-window-1.2.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\61bbda208cae905ee6fa8d33a0887889\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\61bbda208cae905ee6fa8d33a0887889\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\748c7ceb2d2ecdf42c1ae0e11e6870de\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\748c7ceb2d2ecdf42c1ae0e11e6870de\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\USER\.gradle\caches\transforms-3\d333c5d2f2f300e4f332b106c37bf739\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
@@ -338,14 +365,16 @@ MERGED from [com.google.mlkit:common:18.0.0] C:\Users\USER\.gradle\caches\transf
 MERGED from [com.google.mlkit:common:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\6da7270ae3fed62a8c43f089a25c8f79\transformed\jetified-common-18.0.0\AndroidManifest.xml:6:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\4627712d6a4c831669871bc72ea4ce6c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\4627712d6a4c831669871bc72ea4ce6c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
-MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\USER\.gradle\caches\transforms-3\9060a12d43b13bcf1016c5e24ade2a89\transformed\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\USER\.gradle\caches\transforms-3\9060a12d43b13bcf1016c5e24ade2a89\transformed\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\b96a2652114f9244b69774bca5134a98\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\b96a2652114f9244b69774bca5134a98\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\3d6c1e5ff696b9139a08c21e0af9848c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\3d6c1e5ff696b9139a08c21e0af9848c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\e3a316e1d37a37e2fcdb05da128dfd24\transformed\jetified-review-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\USER\.gradle\caches\transforms-3\e3a316e1d37a37e2fcdb05da128dfd24\transformed\jetified-review-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\USER\.gradle\caches\transforms-3\9060a12d43b13bcf1016c5e24ade2a89\transformed\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\USER\.gradle\caches\transforms-3\9060a12d43b13bcf1016c5e24ade2a89\transformed\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\USER\.gradle\caches\transforms-3\ad7182045911e68e60bb0c7f63954998\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\USER\.gradle\caches\transforms-3\ad7182045911e68e60bb0c7f63954998\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\USER\.gradle\caches\transforms-3\3f948cf1390e7ab146849a46401a9711\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\USER\.gradle\caches\transforms-3\3f948cf1390e7ab146849a46401a9711\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\USER\.gradle\caches\transforms-3\8ebabfd541925c35f71f3f52b377fe67\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
@@ -448,6 +477,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\USER\.g
 MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\USER\.gradle\caches\transforms-3\3b1ea52c31a5c483cca518900cf1a469\transformed\jetified-annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
 MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\c5e83e8fb69b7a41c3eafb8ef93feee8\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:4:3-71
 MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\USER\.gradle\caches\transforms-3\c5e83e8fb69b7a41c3eafb8ef93feee8\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:4:3-71
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:7:5-9:41
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\15be73b9804710ed0af675024111aa8f\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:7:5-8:41
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\USER\.gradle\caches\transforms-3\15be73b9804710ed0af675024111aa8f\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:7:5-8:41
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\USER\.gradle\caches\transforms-3\3b79ff2527a6d2392d9e36fba43856cc\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
@@ -605,11 +636,11 @@ ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gra
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\USER\.gradle\caches\transforms-3\4627712d6a4c831669871bc72ea4ce6c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\USER\.gradle\caches\transforms-3\a056be6f68b3b1a306c9a7a9d8f0c5d5\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\USER\.gradle\caches\transforms-3\9dbe9a797ca5b6a2f4ba083ae20eb07b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] C:\Users\USER\.gradle\caches\transforms-3\e471d934d2ec39d5b642bc49644e7b6d\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -637,11 +668,11 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\USER\.gradle\ca
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\USER\.gradle\caches\transforms-3\fa5f8e3925c8e5c55fa8537ffbc9bd32\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+IMPLIED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+IMPLIED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-55:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\USER\Downloads\Compressed\examples-master\lite\examples\object_detection\android\app\src\main\AndroidManifest.xml:2:1-62:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
 ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\USER\.gradle\caches\transforms-3\32fdf8fddebf6e1b958a215d9da3bb91\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\USER\.gradle\caches\transforms-3\52cfba474b48bd31b38ebc30e4378a2a\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
@@ -712,3 +743,13 @@ action#androidx.profileinstaller.action.BENCHMARK_OPERATION
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\USER\.gradle\caches\transforms-3\8ce995ba5fb219b482fcf6dd20ec71eb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
 	android:name
 		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\USER\.gradle\caches\transforms-3\8ce995ba5fb219b482fcf6dd20ec71eb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\USER\.gradle\caches\transforms-3\7b2104ee538dbab94180a5501fc24855\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:15:13-93

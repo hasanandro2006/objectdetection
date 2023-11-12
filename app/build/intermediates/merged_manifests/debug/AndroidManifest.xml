@@ -37,6 +37,14 @@
         android:taskAffinity=""
         android:testOnly="true" >
         <activity
+            android:name="org.hasancottage.objectdetection.activity.Webview"
+            android:exported="false"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="org.hasancottage.objectdetection.activity.AboutThisApp"
+            android:exported="false"
+            android:theme="@style/AppTheme" />
+        <activity
             android:name="org.hasancottage.objectdetection.activity.ActivityForGalarry"
             android:exported="false"
             android:theme="@style/AppTheme" />
@@ -53,8 +61,7 @@
         <activity
             android:name="org.hasancottage.objectdetection.MainActivity"
             android:exported="false"
-            android:theme="@style/AppTheme" >
-        </activity>
+            android:theme="@style/AppTheme" />
         <activity
             android:name="org.hasancottage.objectdetection.activity.ObjectActivity"
             android:clearTaskOnLaunch="true"
@@ -175,7 +182,12 @@
             <intent-filter>
                 <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
             </intent-filter>
-        </receiver>
+        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+        <activity
+            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+            android:exported="false"
+            android:stateNotNeeded="true"
+            android:theme="@style/Theme.PlayCore.Transparent" />
     </application>
 
 </manifest>

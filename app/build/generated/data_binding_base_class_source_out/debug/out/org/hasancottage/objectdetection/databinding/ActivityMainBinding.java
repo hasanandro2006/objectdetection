@@ -23,16 +23,13 @@ public final class ActivityMainBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final ImageButton aboutApp;
+
+  @NonNull
   public final ConstraintLayout camer;
 
   @NonNull
   public final ConstraintLayout gallary;
-
-  @NonNull
-  public final ImageButton imageButton2;
-
-  @NonNull
-  public final ImageButton imageButton3;
 
   @NonNull
   public final ImageView imageView2;
@@ -45,6 +42,9 @@ public final class ActivityMainBinding implements ViewBinding {
 
   @NonNull
   public final ConstraintLayout one;
+
+  @NonNull
+  public final ImageButton rateUs;
 
   @NonNull
   public final TextView textView3;
@@ -70,22 +70,22 @@ public final class ActivityMainBinding implements ViewBinding {
   @NonNull
   public final View view;
 
-  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull ConstraintLayout camer,
-      @NonNull ConstraintLayout gallary, @NonNull ImageButton imageButton2,
-      @NonNull ImageButton imageButton3, @NonNull ImageView imageView2,
-      @NonNull ImageView imageView3, @NonNull ImageView imageView4, @NonNull ConstraintLayout one,
-      @NonNull TextView textView3, @NonNull TextView textView4, @NonNull TextView textView5,
-      @NonNull TextView textView6, @NonNull TextView textView7, @NonNull CardView three,
-      @NonNull CardView tow, @NonNull View view) {
+  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull ImageButton aboutApp,
+      @NonNull ConstraintLayout camer, @NonNull ConstraintLayout gallary,
+      @NonNull ImageView imageView2, @NonNull ImageView imageView3, @NonNull ImageView imageView4,
+      @NonNull ConstraintLayout one, @NonNull ImageButton rateUs, @NonNull TextView textView3,
+      @NonNull TextView textView4, @NonNull TextView textView5, @NonNull TextView textView6,
+      @NonNull TextView textView7, @NonNull CardView three, @NonNull CardView tow,
+      @NonNull View view) {
     this.rootView = rootView;
+    this.aboutApp = aboutApp;
     this.camer = camer;
     this.gallary = gallary;
-    this.imageButton2 = imageButton2;
-    this.imageButton3 = imageButton3;
     this.imageView2 = imageView2;
     this.imageView3 = imageView3;
     this.imageView4 = imageView4;
     this.one = one;
+    this.rateUs = rateUs;
     this.textView3 = textView3;
     this.textView4 = textView4;
     this.textView5 = textView5;
@@ -123,6 +123,12 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.aboutApp;
+      ImageButton aboutApp = ViewBindings.findChildViewById(rootView, id);
+      if (aboutApp == null) {
+        break missingId;
+      }
+
       id = R.id.camer;
       ConstraintLayout camer = ViewBindings.findChildViewById(rootView, id);
       if (camer == null) {
@@ -132,18 +138,6 @@ public final class ActivityMainBinding implements ViewBinding {
       id = R.id.gallary;
       ConstraintLayout gallary = ViewBindings.findChildViewById(rootView, id);
       if (gallary == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton2;
-      ImageButton imageButton2 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton2 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton3;
-      ImageButton imageButton3 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton3 == null) {
         break missingId;
       }
 
@@ -168,6 +162,12 @@ public final class ActivityMainBinding implements ViewBinding {
       id = R.id.one;
       ConstraintLayout one = ViewBindings.findChildViewById(rootView, id);
       if (one == null) {
+        break missingId;
+      }
+
+      id = R.id.rateUs;
+      ImageButton rateUs = ViewBindings.findChildViewById(rootView, id);
+      if (rateUs == null) {
         break missingId;
       }
 
@@ -219,8 +219,8 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, camer, gallary, imageButton2,
-          imageButton3, imageView2, imageView3, imageView4, one, textView3, textView4, textView5,
+      return new ActivityMainBinding((ConstraintLayout) rootView, aboutApp, camer, gallary,
+          imageView2, imageView3, imageView4, one, rateUs, textView3, textView4, textView5,
           textView6, textView7, three, tow, view);
     }
     String missingId = rootView.getResources().getResourceName(id);
